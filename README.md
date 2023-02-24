@@ -10,7 +10,7 @@ and avoid the distractions of a Flutter UI may wish to remove them.
 ## Problem Statement
 
 Print the integers 1 through 100 each on their own line, except that  
-if the number is divisible by 3, print &ldquo;Fizz&rdquo; instead,
-if the number is divisible by 5, print &ldquo;Buzz&rdquo; instead,
-and if the number is divisible by both 3 and 5, print &ldquo;FizzBuzz&rdquo; instead.
+if the number is divisible by 3, print "Fizz" instead,
+if the number is divisible by 5, print "Buzz" instead,
+and if the number is divisible by both 3 and 5, print "FizzBuzz" instead.
 
