@@ -1,7 +1,7 @@
 # FizzBuzz in Flutter/Dart
 
 This is a template project for approaching the FizzBuzz problem using Test-Driven Development
-through [_The Classroom Mob Programming Game_](https://doctor-g.github.io/classroom_mob/).
+through [_The Classroom Mob Programming Game_](https://classroom-mob-game.github.io/).
 
 This template is based on the default Flutter project, whose [lib/main.dart] and 
 [test/widget_test.dart] files have been left in place. Instructors who want to focus on Dart
